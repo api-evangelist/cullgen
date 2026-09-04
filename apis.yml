@@ -11,6 +11,18 @@ deliveryModel:
   - none
   generated: '2026-08-28'
   method: derived
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source:
+  - security
+  generated: '2026-09-02'
+  method: derived
 image: https://images.squarespace-cdn.com/content/64fa49d6dc6a8807524aa6c6/6a0a0ac8-3bf2-40b4-9f81-547d92175843/cullgen+logo+with+drop+shadow+more+blurry.png?format=1500w&content-type=image%2Fpng
 description: 'Cullgen Inc. is a clinical-stage biopharmaceutical company headquartered in San Diego,
   California, founded in 2018 and focused on first-in-class targeted protein degradation medicines. Its
